@@ -1,2 +1,7 @@
 # Block-Word
-Sistema que Bloqueia Palavrões Para o seu Servidor [discord.py]
+Sistema que Bloqueia Palavrões em discord.py
+
+# IMAGEMS
+
+![IMG]()
+![IMG]()
